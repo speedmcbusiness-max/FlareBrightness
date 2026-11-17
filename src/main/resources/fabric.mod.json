@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "flarebrightness",
+  "version": "1.0.0",
+  "name": "FlareBrightness",
+  "description": "Brightness from -500 (pitch dark) to 1500 (max) with a vanilla-style settings screen. Press B to open.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["net.flarebrightness.FlareBrightness"]
+  },
+  "mixins": ["flarebrightness.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "fabric-api": "*",
+    "minecraft": "~26.3",
+    "java": ">=25"
+  }
+}

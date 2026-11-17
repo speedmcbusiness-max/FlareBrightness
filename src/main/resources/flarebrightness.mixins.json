@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.flarebrightness.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [],
+  "client": ["MixinLightmapRenderStateExtractor"],
+  "injectors": { "defaultRequire": 1 }
+}

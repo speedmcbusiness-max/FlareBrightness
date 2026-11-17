@@ -1,0 +1,10 @@
+{
+  "key.flarebrightness.open": "Open FlareBrightness Settings",
+  "key.category.flarebrightness.main": "FlareBrightness",
+  "flarebrightness.title": "FlareBrightness Settings",
+  "flarebrightness.apply": "Apply",
+  "flarebrightness.level": "Brightness: %s",
+  "flarebrightness.level.normal": "Brightness: Normal (0)",
+  "flarebrightness.level.max": "Brightness: Max (%s)",
+  "flarebrightness.level.darkest": "Brightness: Darkest (%s)"
+}
